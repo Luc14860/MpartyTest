@@ -1,0 +1,8 @@
+name: Test
+main: fr.test.Test
+version: 1.0
+author: Luc14860
+commands:
+    ride:
+        description: ""
+        usage: "/ride"
